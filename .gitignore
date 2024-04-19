@@ -1,3 +1,14 @@
+# csv files
+*.csv
+
+#sqlite file
+*.db
+
+# png & html
+*.html
+*.png
+*.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
